@@ -8,9 +8,9 @@ A simple, lightweight Unity editor tool to batch rename multiple GameObjects in 
 Open the Unity Package Manager (Window -> Package Manager), click the "+" icon, select **Add package from git URL**, and enter:
 
 ```
-https://github.com/Binhou/unity-tools.git?path=/Packages/com.binhou.batchrenamer#rename/v2.0.0
+https://github.com/BinhouOuO/binhou-tools.git?path=/Packages/com.binhou.batchrenamer#rename/v2.0.0
 ```
-*(Please replace `Binhou/unity-tools.git` with your actual repository URL)*
+*(Please replace `BinhouOuO/binhou-tools.git` with your actual repository URL if necessary)*
 
 ### Via Disk (Local Development)
 Open the Package Manager, click the "+" icon, select **Add package from disk**, and choose the `package.json` file in this directory.

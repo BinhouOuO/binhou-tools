@@ -1,6 +1,6 @@
 {
   "name": "com.binhou.batchrenamer",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "displayName": "Batch Renamer",
   "description": "Batch rename GameObjects.",
   "unity": "2023.2",

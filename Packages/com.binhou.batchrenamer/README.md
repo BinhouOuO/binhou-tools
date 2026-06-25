@@ -17,7 +17,7 @@ Then open the Unity Package Manager (**Window -> Package Manager**), switch to *
 Open the Unity Package Manager (Window -> Package Manager), click the "+" icon, select **Add package from git URL**, and enter:
 
 ```
-https://github.com/BinhouOuO/binhou-tools.git?path=/Packages/com.binhou.batchrenamer#rename/v2.1.1
+https://github.com/BinhouOuO/binhou-tools.git?path=/Packages/com.binhou.batchrenamer#rename/v2.1.2
 ```
 *(Please replace `BinhouOuO/binhou-tools.git` with your actual repository URL if necessary)*
 

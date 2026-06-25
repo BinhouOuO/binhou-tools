@@ -31,7 +31,7 @@ After adding the registry, open the Unity Package Manager window (**Window -> Pa
 Open the Package Manager window (**Window -> Package Manager**), click the **"+"** icon, select **Add package from git URL**, and enter:
 
 ```
-https://github.com/BinhouOuO/binhou-tools.git?path=/Packages/com.binhou.batchrenamer#rename/v2.0.0
+https://github.com/BinhouOuO/binhou-tools.git?path=/Packages/com.binhou.batchrenamer#rename/v2.1.2
 ```
 
 - `?path=` specifies the exact package directory to import.

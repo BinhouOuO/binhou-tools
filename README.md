@@ -14,9 +14,21 @@ BinhouTools/
 |---|---|---|
 | `com.binhou.batchrenamer` | Batch Renamer Tool for Unity objects & assets | `rename/` |
 
-## Importing a Package
+## Installation
 
-In Unity, open the Package Manager (Window -> Package Manager), click the **"+"** icon, select **Add package from git URL**, and enter the URL with the `?path=` query parameter pointing to the specific tool folder:
+### Via OpenUPM (Recommended)
+
+To install packages via OpenUPM, open Unity and navigate to **Edit -> Project Settings -> Package Manager**. Under **Scoped Registries**, add the following registry:
+
+- **Name**: `Binhou`
+- **URL**: `https://package.openupm.com`
+- **Scope(s)**: `com.binhou`
+
+After adding the registry, open the Unity Package Manager window (**Window -> Package Manager**), switch the selector to **My Registries**, choose the package, and click **Install**.
+
+### Via Git URL
+
+Open the Package Manager window (**Window -> Package Manager**), click the **"+"** icon, select **Add package from git URL**, and enter:
 
 ```
 https://github.com/BinhouOuO/binhou-tools.git?path=/Packages/com.binhou.batchrenamer#rename/v2.0.0

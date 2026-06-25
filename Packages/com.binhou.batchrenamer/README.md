@@ -4,6 +4,15 @@ A simple, lightweight Unity editor tool to batch rename multiple GameObjects in 
 
 ## Installation
 
+### Via OpenUPM (Recommended)
+Add a Scoped Registry in your Unity project settings (**Edit -> Project Settings -> Package Manager -> Scoped Registries**):
+
+- **Name**: `Binhou`
+- **URL**: `https://package.openupm.com`
+- **Scope(s)**: `com.binhou`
+
+Then open the Unity Package Manager (**Window -> Package Manager**), switch to **My Registries**, select **Batch Renamer**, and click **Install**.
+
 ### Via Git URL
 Open the Unity Package Manager (Window -> Package Manager), click the "+" icon, select **Add package from git URL**, and enter:
 

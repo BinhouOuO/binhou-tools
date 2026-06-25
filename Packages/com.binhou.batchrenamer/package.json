@@ -1,6 +1,6 @@
 {
   "name": "com.binhou.batchrenamer",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "displayName": "Batch Renamer",
   "description": "A lightweight Unity editor tool for batch renaming objects in Hierarchy or Project views. Supports prefixes, suffixes, numbering padding, alphabetical index, sorting order, and undo function.",
   "unity": "2023.2",
